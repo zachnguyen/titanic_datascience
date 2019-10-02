@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: titanic
+Version: 0.1
+Summary: Analysis of the Titanic dataset
+Home-page: https://github.com/zachattack_0111/titanic_datascience
+Author: Zach nguyen
+Author-email: nguyenngochaiizz@gmail.com
+License: MIT
+Description: 
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
